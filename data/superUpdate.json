@@ -1,0 +1,12 @@
+{
+  "Visibility": "VISIBLE",
+  "Title": "SuperNova Maintenance",
+  "Description": "SuperNova sedang Maintenance",
+  "TimeMain" : "",
+  "TimeDone" : "",
+  "MainTextButton": "Update? Click here",
+  "Cancelable": "false",
+  "CancelButtonText": "Cancel",
+  "DownloadLink": "https://xydlan.github.io/SuperNova/Update-file/SuperNovaV140.zip",
+  "Version": "1.3.0-SuperNova"
+}
